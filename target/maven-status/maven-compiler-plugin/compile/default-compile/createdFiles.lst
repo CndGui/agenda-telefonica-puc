@@ -1,0 +1,5 @@
+com\agenda\db\DatabaseConnection.class
+com\agenda\AgendaTeste.class
+com\agenda\dao\ContactDAO.class
+com\agenda\service\AgendaTelefonica.class
+com\agenda\model\Contato.class
